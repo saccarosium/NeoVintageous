@@ -30,7 +30,7 @@
     "vintageous_default_mode": null,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-abolish
-    "vintageous_enable_abolish": true,
+    "vintageous_enable_abolish": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-commentary
     "vintageous_enable_commentary": true,
@@ -45,7 +45,7 @@
     "vintageous_highlighted_yank_style": "fill",
 
     // See https://neovintageous.github.io/reference/settings#vintageous-show-marks-in-gutter
-    "vintageous_show_marks_in_gutter": true, // markology
+    "vintageous_show_marks_in_gutter": false, // markology
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-multiple-cursors
     "vintageous_enable_multiple_cursors": true,
@@ -60,16 +60,16 @@
     "vintageous_sneak_use_ic_scs": 0,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-sublime
-    "vintageous_enable_sublime": true,
+    "vintageous_enable_sublime": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-surround
-    "vintageous_enable_surround": true,
+    "vintageous_enable_surround": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-targets
-    "vintageous_enable_targets": true,
+    "vintageous_enable_targets": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-enable-unimpaired
-    "vintageous_enable_unimpaired": true,
+    "vintageous_enable_unimpaired": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-exit-when-quitting-last-window
     "vintageous_exit_when_quitting_last_window": true,
@@ -90,7 +90,7 @@
     "vintageous_lsp_save": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-reset-mode-when-switching-tabs
-    "vintageous_reset_mode_when_switching_tabs": true,
+    "vintageous_reset_mode_when_switching_tabs": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-save-async
     "vintageous_save_async": false,
@@ -117,7 +117,7 @@
     "vintageous_use_ctrl_keys": true,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-use-super-keys
-    "vintageous_use_super_keys": true,
+    "vintageous_use_super_keys": false,
 
     // See https://neovintageous.github.io/reference/settings#vintageous-use-sys-clipboard
     "vintageous_use_sys_clipboard": false
